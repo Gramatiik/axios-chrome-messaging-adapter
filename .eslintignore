@@ -2,5 +2,7 @@ dist/
 webpack.config.js
 .prettierrc.js
 
+jest.*.js
+
 
 node_modules/
